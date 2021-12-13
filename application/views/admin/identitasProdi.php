@@ -57,7 +57,7 @@
                 </tr>
                 <tr>
                   <th>Alamat PS</th>
-                  <td style="text-align:center">Jl. Poros Malino KM. 6, Gowa</td>
+                  <td style="text-align:center">Jl. Poros Malino KM. 6,Bontomarannu Gowa</td>
                 </tr>
                 <tr>
                   <th>Nomor Telepon PS</th>
