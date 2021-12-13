@@ -22,15 +22,15 @@
         <?= form_error('sumber', '<small class="text-danger pl-3">', '</small>'); ?>
       </div>
       <div class="form-group">
-        <input type="number" min="1" max="500" class="form-control" name="tahun1" required placeholder="Data Tahun 2016" value="<?= set_value('tahun1') ?>">
+        <input type="number" min="1" max="500" class="form-control" name="tahun1" required placeholder="Data Tahun 2019" value="<?= set_value('tahun1') ?>">
         <?= form_error('tahun1', '<small class="text-danger pl-3">', '</small>'); ?>
       </div>
       <div class="form-group">
-        <input type="number" min="1" max="500" class="form-control" name="tahun2" required placeholder="Data Tahun 2017" value="<?= set_value('tahun2') ?>">
+        <input type="number" min="1" max="500" class="form-control" name="tahun2" required placeholder="Data Tahun 2020" value="<?= set_value('tahun2') ?>">
         <?= form_error('tahun2', '<small class="text-danger pl-3">', '</small>'); ?>
       </div>
       <div class="form-group">
-        <input type="number" min="1" max="500" class="form-control" name="tahun3" required placeholder="Data Tahun 2018" value="<?= set_value('tahun3') ?>">
+        <input type="number" min="1" max="500" class="form-control" name="tahun3" required placeholder="Data Tahun 2021" value="<?= set_value('tahun3') ?>">
         <?= form_error('tahun3', '<small class="text-danger pl-3">', '</small>'); ?>
       </div>
       <button class="btn btn-info btn-user btn-block" type="submit">

@@ -38,9 +38,9 @@
             <thead>
               <tr>
                 <th style="text-align: center">Sumber Pembiayaan</th>
-                <th style="text-align: center">TS-2 (2016)</th>
-                <th style="text-align: center">TS-1 (2017)</th>
-                <th style="text-align: center">TS (2018)</th>
+                <th style="text-align: center">2019</th>
+                <th style="text-align: center">2020</th>
+                <th style="text-align: center">2021</th>
                 <th style="text-align: center">Aksi</th>
             </thead>
             <tbody>

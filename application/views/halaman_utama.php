@@ -99,11 +99,11 @@
                   </div>
                   <div class="col-sm-6">
                     <p>Keterangan:</p>
-                    <div class="px-1 py-1 text-white" style="background-color: #173F5F; border-radius: 15px">2014/2015</div><br>
-                    <div class="px-1 py-1 text-white" style="background-color: #20639B; border-radius: 15px">2015/2016</div><br>
-                    <div class="px-1 py-1 text-white" style="background-color: #3CAEA3; border-radius: 15px">2016/2017</div><br>
-                    <div class="px-1 py-1 text-white" style="background-color: #F6D55C; border-radius: 15px">2017/2018</div><br>
-                    <div class="px-1 py-1 text-white" style="background-color: #ED553B; border-radius: 15px">2018/2019</div><br>
+                    <div class="px-1 py-1 text-white" style="background-color: #173F5F; border-radius: 15px">2016/2017</div><br>
+                    <div class="px-1 py-1 text-white" style="background-color: #20639B; border-radius: 15px">2017/2018</div><br>
+                    <div class="px-1 py-1 text-white" style="background-color: #3CAEA3; border-radius: 15px">2018/2019</div><br>
+                    <div class="px-1 py-1 text-white" style="background-color: #F6D55C; border-radius: 15px">2019/2020</div><br>
+                    <div class="px-1 py-1 text-white" style="background-color: #ED553B; border-radius: 15px">2020/2021</div><br>
                   </div>
                 </div>
               </div>

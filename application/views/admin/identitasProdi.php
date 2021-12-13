@@ -9,39 +9,39 @@
               <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                 <tr>
                   <th>Program Studi</th>
-                  <td style="text-align:center">Sistem Informasi</td>
+                  <td style="text-align:center">Teknik Informatika</td>
                 </tr>
                 <tr>
-                  <th>Jurusan/Departemen</th>
-                  <td style="text-align:center">Sistem Informasi</td>
+                  <th>Jurusan</th>
+                  <td style="text-align:center">Teknik Elektro</td>
                 </tr>
                 <tr>
                   <th>Fakultas</th>
-                  <td style="text-align:center">Fakultas Ilmu Komputer</td>
+                  <td style="text-align:center">Fakultas Teknik</td>
                 </tr>
                 <tr>
                   <th>Perguruan Tinggi</th>
-                  <td style="text-align:center">Universitas Brawijaya</td>
+                  <td style="text-align:center">Universitas Hasanuddin</td>
                 </tr>
                 <tr>
                   <th>Nomor SK pendirian PS</th>
-                  <td style="text-align:center">No. 163/KEP/DIKTI/2007</td>
+                  <td style="text-align:center">No. 852/D/T/2008 </td>
                 </tr>
                 <tr>
                   <th>Tanggal SK pendirian PS</th>
-                  <td style="text-align:center">27</td>
+                  <td style="text-align:center">-</td>
                 </tr>
                 <tr>
                   <th>Pejabat Penandatangan SK Pendirian PS</th>
-                  <td style="text-align:center">Rektor Universitas Brawijaya</td>
+                  <td style="text-align:center">Rektor Universitas Hasanuddin</td>
                 </tr>
                 <tr>
                   <th>Bulan & Tahun Dimulainya Penyelenggaraan PS</th>
-                  <td style="text-align:center">Oktober 2011</td>
+                  <td style="text-align:center">2008</td>
                 </tr>
                 <tr>
                   <th>Nomor SK Izin Operasional </th>
-                  <td style="text-align:center">No. 516/SK/2011</td>
+                  <td style="text-align:center">-</td>
                 </tr>
                 <tr>
                   <th>Tanggal SK Izin Operasional</th>
@@ -49,27 +49,27 @@
                 </tr>
                 <tr>
                   <th>Peringkat (Nilai) Akreditasi Terakhir</th>
-                  <td style="text-align:center">B</td>
+                  <td style="text-align:center">Unggul</td>
                 </tr>
                 <tr>
                   <th>Nomor SK BAN-PT</th>
-                  <td style="text-align:center">Sistem Informasi</td>
+                  <td style="text-align:center">Teknik Informatika</td>
                 </tr>
                 <tr>
                   <th>Alamat PS</th>
-                  <td style="text-align:center">Jl. Veteran No. 8 Malang, Indonesia</td>
+                  <td style="text-align:center">Jl. Poros Malino KM. 6, Gowa</td>
                 </tr>
                 <tr>
                   <th>Nomor Telepon PS</th>
-                  <td style="text-align:center">(0341) 577-911</td>
+                  <td style="text-align:center">-</td>
                 </tr>
                 <tr>
                   <th>Nomor Faksimili PS</th>
-                  <td style="text-align:center">(0341) 577-911</td>
+                  <td style="text-align:center">-</td>
                 </tr>
                 <tr>
                   <th>Homepage dan E-mail PS</th>
-                  <td style="text-align:center"><a href="http://jsi.filkom.ub.ac.id" target="_blank">Website SI FILKOM</a> / si.ptiik@ub.ac.id</td>
+                  <td style="text-align:center"><a href="https://eng.unhas.ac.id/informatics/id/" target="_blank">Website Departemen</a> / informatika@unhas.ac.id</td>
                 </tr>
               </table>
             </div>
